@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookManager", "eBookManager\eBookManager.csproj", "{65FA2CBF-4F3F-4909-AB53-A91B2A1B0794}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookManager.Engine", "eBookManager.Engine\eBookManager.Engine.csproj", "{C3A2DD99-6CCF-4860-8A2D-C441B782A353}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{65FA2CBF-4F3F-4909-AB53-A91B2A1B0794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65FA2CBF-4F3F-4909-AB53-A91B2A1B0794}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65FA2CBF-4F3F-4909-AB53-A91B2A1B0794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A2DD99-6CCF-4860-8A2D-C441B782A353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A2DD99-6CCF-4860-8A2D-C441B782A353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A2DD99-6CCF-4860-8A2D-C441B782A353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A2DD99-6CCF-4860-8A2D-C441B782A353}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
